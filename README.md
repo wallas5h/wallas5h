@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Waldemar Laskowski</h1>
+<h1 align="center">Hi, I'm Waldemar Laskowski</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **JAVA, NestJs, Jest**
