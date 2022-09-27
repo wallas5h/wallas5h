@@ -17,8 +17,13 @@ Bellow you'll find projects I've completed that showcase my skills and general b
 
 - **Spaceship Invadiers** - Vanilla Javascript's spaceship game: https://spaceship.networkmanager.pl/
 
+<h3 align="left">Statistics:</h3>
+<div width="100%"> 
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wallas5h&show_icons=true&theme=radical"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallas5h&layout=compact&langs_count=4"/>
+</div>
 
-<h3 align="left">Contact:</h3>
+<h3 align="left" >Contact:</h3>
 <p align="left" width="100%">
 <a width="100%" href="https://linkedin.com/in/waldemar-laskowski-183951238/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waldemar-laskowski-183951238/" height="40" width="30" /></a> <span display="inline-block" padding-left="10px" width="40" > </span><a width="100%" margin-left="5rem" href="mailto:wallas5h@gmail.com" target="blank"><img  src="https://iconarchive.com/download/i75211/cornmanthe3rd/metronome/Communication-email-blue.ico" alt="waldemar-laskowski-mail" height="40" width="40" /></a>
 
