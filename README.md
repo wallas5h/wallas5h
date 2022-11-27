@@ -19,6 +19,8 @@ Bellow you'll find projects I've completed that showcase my skills and general b
 
 - **DogIntagram** - Angular Dog's api: https://wallas5h.github.io/DogIntagram/DogIntagram/
 
+- **Store** - Angular e-commerce Store api: [https://wallas5h.github.io/DogIntagram/DogIntagram/](https://github.com/wallas5h/Store-ng)
+
 <h3 align="left">Statistics:</h3>
 <div width="100%"> 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wallas5h&show_icons=true&theme=radical"/>
