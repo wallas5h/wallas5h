@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 <h4 align="left">
-I'm a self‐taught Web Developer and I have been doing this for almost 1 year.
+I'm a self‐taught Web Developer and I have been doing this for almost 2 year.
 I'm passionate about development and genuinely like to learn and face challenges.
 Bellow you'll find projects I've completed that showcase my skills and general background in developing software.
 </h4>
@@ -16,6 +16,8 @@ Bellow you'll find projects I've completed that showcase my skills and general b
 - **GPT-3** - MERN project about AI: https://gpt-3.networkmanager.pl
 
 - **Spaceship Invadiers** - Vanilla Javascript's spaceship game: https://spaceship.networkmanager.pl/
+
+- **DogIntagram** - Angular Dog's api: https://wallas5h.github.io/DogIntagram/DogIntagram/
 
 <h3 align="left">Statistics:</h3>
 <div width="100%"> 
