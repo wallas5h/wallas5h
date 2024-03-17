@@ -11,6 +11,8 @@ Bellow you'll find projects I've completed that showcase my skills and general b
 
 <h3 align="left">Projects:</h3>
 
+- **LaskoMed**  - Backend Java Spring Boot Application: https://github.com/wallas5h/laskomed
+  
 - **ChatMe**  - MEAN chat application: https://chatme.networkmanager.pl
 
 - **BooksShop**  - MERN e-commerce application: https://books-shop.networkmanager.pl
