@@ -1,6 +1,6 @@
 
 <h1 align="center">Waldemar Laskowski</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center"> Java / Full-Stack Developer</h3>
 
 <h3 align="left">About me:</h3>
 <h4 align="left">
@@ -12,19 +12,19 @@ Below, you'll find a selection of projects I've completed that demonstrate my sk
 
 <h3 align="left">Projects:</h3>
 
-- **LaskoMed**  - Backend Java Spring Boot Application: https://github.com/wallas5h/laskomed
+1. **LaskoMed**  - Backend Java Spring Boot application: 
+   * https://github.com/wallas5h/laskomed
 
-- **ChatMe**  - MEAN chat application: https://chatme.networkmanager.pl
+2. **ChatMe**  - Angular and Node chat application with Socket.IO:
+   * https://github.com/wallas5h/chat_client_angular
+   * https://github.com/wallas5h/chat_server
 
-- **BooksShop**  - MERN e-commerce application: https://books-shop.networkmanager.pl
+3. **BooksShop**  - React and Node e-commerce application:
+   * https://github.com/wallas5h/Bookshop_client
+   * https://github.com/wallas5h/Bookshop_server
 
-- **GPT-3** - MERN project about AI: https://gpt-3.networkmanager.pl
-
-- **Spaceship Invadiers** - Vanilla Javascript's spaceship game: https://spaceship.networkmanager.pl/
-
-- **DogIntagram** - Angular Dog's api: https://wallas5h.github.io/DogIntagram/DogIntagram/
-
-- **Store** - Angular e-commerce Store api: https://github.com/wallas5h/Store-ng
+4. **GPT-3** - React and Node application about AI: 
+   * https://github.com/wallas5h/GPT-3
 
 <h3 align="left">Statistics:</h3>
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallas5h&layout=compact&langs_count=4"/>
